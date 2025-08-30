@@ -1,0 +1,10 @@
+﻿컴퓨터비전 | 창공관 424호 | 02-6490-2475 | https://rcv.uos.ac.kr
+인공지능, 컴퓨터비전 | 창공관 423호 | 02-6490-2476 | https://sites.google.com/view/uos-milab/
+의료 빅데이터 | 창공관 422호 | 02-6490-2477 | https://sites.google.com/view/joungyoun
+자연어 처리, 법률 인공지능 | 창공관 421호 | 02-6490-2478 | https://uos-nlp.notion.site/
+인공지능, 계산이론, 스포츠 데이터 분석 | 창공관 217호 | 02-6490-2479 | http://cida.uos.ac.kr
+온디바이스 인공지능, 컴퓨터 비전 | 창공관 326호 | 02-6490-2474 | https://sites.google.com/view/uos-rtcv
+인공지능, Agent Systems, Distributed AI, Intelligent Systems | 정보기술관 505호 | 02-6490-2334 | http://ai.uos.ac.kr
+소프트웨어공학 | 정보기술관 19-307호 | 02-6490-2451 | http://selab.uos.ac.kr
+인공지능, 음성인식 | 정보기술관 19-306호 | 02-6490-2448 | http://speech.uos.ac.kr
+데이터마이닝, 데이터베이스, 정보추출, 기계학습 | 정보기술관 408호 | 02-6490-2339 | http://datamining.uos.ac.kr

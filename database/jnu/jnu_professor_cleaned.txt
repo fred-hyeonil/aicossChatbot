@@ -1,0 +1,18 @@
+전남대학교 인공지능학부 교수진
+
+1. Lim, Hyeong-Seok (임형석) - 연락처: 062-530-3426 / 이메일: hslim@jnu.ac.kr
+2. Choi, Deok-Jai (최덕재) - 이메일: dchoi@jnu.ac.kr
+3. Kim, Soo-Hyung (김수형) - 연락처: 062-530-3430 / 이메일: shkim@jnu.ac.kr
+4. Park, Hyuk-Ro (박혁로) - 연락처: 062-530-3431 / 이메일: hyukro@jnu.ac.kr
+5. Yang, Hyung-Jeong (양형정) - 연락처: 062-530-3436 / 이메일: hjyang@jnu.ac.kr
+6. Kim, Kyungbaek (김경백) - 연구실: 분산네트워크시스템연구실 - 연락처: 062-530-3438 / 이메일: kyungbaekkim@jnu.ac.kr
+7. Choi, Kwanghoon (최광훈) - 연구 분야: 소프트웨어언어 및 시스템 - 연락처: 062-530-3421 / 이메일: kwanghoon.choi@jnu.ac.kr
+8. Jeong, Hieyong (정희용) - 연구 분야: Biomechanics / Robotics - 연락처: 062-530-3427 / 이메일: h.jeong@jnu.ac.kr
+9. Yoo, Seok-Bong (유석봉) - 연락처: 062-530-3437 / 이메일: sbyoo@jnu.ac.kr
+10. Cho, Yeong-Jun (조영준) - 연락처: 062-530-3432 / 이메일: yj.cho@jnu.ac.kr
+11. Kim, Seungwon (김승원) - 연구실: 증강/가상현실 연구실 - 연락처: 062-530-4231 / 이메일: Seungwon.Kim@jnu.ac.kr
+12. Park, Taejune (박태준) - 연구실: 보안/신뢰 컴퓨팅 연구실 - 연락처: 062-530-4232 / 이메일: taejune.park@jnu.ac.kr
+13. Kim, Man-je (김만제) - 연구실: 게임&기계지능 연구실 - 연락처: 062-530-4233 / 이메일: jaykim0104@jnu.ac.kr
+14. Kim, Misoo (김미수) - 연구실: 소프트웨어 진화 및 유지보수 연구실 - 연락처: 062-530-4234 / 이메일: misoo.kim@jnu.ac.kr
+15. Hwang, Bu-Hyun (황부현) - 연락처: 062-530-3422 / 이메일: bhhwang@jnu.ac.kr
+16. Lee, Guee-Sang (이귀상) - 연구실: 멀티미디어정보통신연구실 - 연락처: 062-530-3425 / 이메일: gslee@jnu.ac.kr

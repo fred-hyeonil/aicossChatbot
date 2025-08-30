@@ -1,0 +1,10 @@
+﻿Applied AI & Computer Vision Lab. - 김광수 교수님
+main Lab. - 김재광 교수님
+MCS Lab. - 류은석 교수님
+VIS2KNOW Lab. - 무함마드 칸 교수님
+Data eXperience Lab. - 박은일 교수님
+HLI Lab. - 박진영 교수님
+Learn Data Lab. - 박호건 교수님
+Human-AI Interaction Lab. - 송하연 교수님
+Learning and Mining from Multimodal Dataset Lab. - 오하영 교수님
+DASH Lab. - 우사이먼성일 교수님

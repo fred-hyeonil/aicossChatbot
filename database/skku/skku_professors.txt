@@ -1,0 +1,113 @@
+성균관대학교 인공지능융합학과 | 학과소개 | 교수진 소개
+031-290-7969
+제2공학관27동 3층 27312호실
+데이터사이언스, 소셜네트워크
+데이터사이언스사회분석연구실
+02-740-1868
+alohakim@skku.edu
+국제관 3층 90324호실
+데이터사이언스, 인공지능응용, 소셜/시멘틱 네트워크, 스마트미디어
+031-299-6491
+linux@skku.edu
+호암관 8층 50806호실
+VR/AR/XR Systems, Operating Systems
+멀티미디어컴퓨팅시스템 연구실
+02-760-0677
+esryu@skku.edu
+호암관 12층 51201호실
+Operating Systems, Multimedia Computing Systems, Virtual Reality, 360 Video Streaming, ETC.
+khanmuhammad@g.skku.edu
+국제관 3층 90326호실
+사용자경험, 데이터과학, 인공지능활용
+Data eXperience Laboratory
+02-740-1864
+eunilpark@skku.edu
+국제관 3층 90310호실
+사용자경험/인간컴퓨터상호작용,
+031-290-7104
+jy.bak@skku.edu
+제2공학관27동 3층 27306호실
+인공지능, 기계학습, 자연어처리
+그래프 기계학습, 자연어 처리, 설명가능 인공지능
+LearnData laboratory
+031-290-7103
+hogunpark@skku.edu
+제2공학관27동 3층 27310A호실
+Machine Learning, Explainable AI(XAI), Knowledge Discovery, Relational learning, Natural Language Processing(NLP), Graph Mining
+Human-AI Interaction Lab
+02-740-1870
+국제관 3층 90323호실
+미디어의 심리적 효과 
+빅데이터처리&자연어처리&인공지능
+hyoh79@skku.edu
+국제관 3층 90342호실
+인공지능융합, 디지털치료기기, 추천시스템, 멀티모달 데이터처리
+2022 SKKU Fellowship
+swoo@g.skku.edu
+N센터 4층 86407호실
+이상징후탐지, 데이터 마이닝/기계학습 응용, 보안, 프라이버시, 인간과컴퓨터상호작용, 인공위성시스템, 융합
+컴퓨터 그래픽스, 캐릭터 애니메이션
+MotionAI Lab
+02-740-1815
+kyungholee@skku.edu
+교수회관 2층 40203호실
+Generative AI, Human Motion Analysis, Interactive Motion Generation
+02-760-0683
+daeho.lee@skku.edu
+국제관 3층 90325호실
+인공지능, 인터넷 플랫폼 등의 사용자 분석과 서비스 전략 수립
+Machine Learning
+02-740-1814
+sangmin.lee@skku.edu
+교수회관 2층 40220호실
+Multimodal Learning, Self-supervised Learning, Social Artificial Intelligence
+031-290-7154
+john@skku.edu
+제2공학관27동 3층 27308A호실
+Deep Learning,
+Machine Learning,
+Federated Learning,
+Medical Image Analysis,
+User Modeling & Recommender System, 
+Text Mining ,
+Pattern Analysis,
+Outlier Detection,
+Internet of Things
+031-299-4957
+pauljeong@skku.edu
+산학협력센터 4층 85468호실
+Cyber-Physical Systems
+Vehicular Networks
+Wireless Sensor Networks
+Mobile Computing
+인간컴퓨터상호작용, 정보시각화
+인터랙티브데이터컴퓨팅 연구실
+031-290-7106
+jmjo@skku.edu
+제2공학관27동 3층 27326호실
+데이터 사이언스, 정보 시각화, 인간-인공지능 상호작용
+Data Science, Machine Learning and AI
+Data Mining and AI Lab
+02-740-1824
+farman0977@g.skku.edu
+국제관 3층 90312호실
+NLP (Sentiment Analysis and Topic Modeling), Social Networking Analysis,
+Recommendation Systems, Medical Informatics, Data Mining, and AI
+Data Mining, Machine Learning, Social Computing
+Data Science and Artificial Intelligence Lab
+02-740-1797
+jinyounghan@skku.edu
+국제관 3층 90311호실
+Data Science, Machine Learning, Networks, Computational Social Science, Artificial Intelligence
+컴퓨터비전, 멀티모달학습, 기계학습
+인공지능 및 미디어 랩
+02-740-1809
+csehong@skku.edu
+국제관 3층 90313호실
+멀티모달학습, 시각-언어 모델, 도메인 적응, 로봇 비전, 3D 영상 인식
+인간-인공지능 상호작용
+02-740-1867
+j.hong@skku.edu
+교수회관 4층 40417호실
+인간AI인터랙션, 사회적 AI, AI 윤리, 디지털 휴먼
+이 사이트는 자바스크립트를 지원하지 않으면 정상적으로 보이지 않을수 있습니다.

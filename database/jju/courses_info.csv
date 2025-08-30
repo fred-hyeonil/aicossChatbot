@@ -1,0 +1,32 @@
+﻿학년,과목명,영문명,설명
+1학년,파이썬기초및실습,Python Programming and Practice,컴퓨터 프로그래밍에 대한 기본 개념을 이해하고 이를 기반으로 기본적인 파이썬 프로그래밍의 습득을 통해 컴퓨터프로그래밍에 대한 이해와 컴퓨터적 사고능력을 가질 수 있도록 한다.
+1학년,확률통계개론,Introduction to Probability and Statistics,인공지능 영역에 자주 사용되는 기본 확률 및 통계 개념을 소개하고 기계/딥러닝 모델을 만드는 데 유용한 확률과 통계의 입문 부분을 학습한다.
+1학년,논리적문제해결,Logical Problem Solving,문제해결능력 향상을 위해 문제분석 및 해결을 위한 다양한 framework와 logic tree를 학습한다.
+1학년,영상이해,Image Processing,"Digital Signal Processing과 디지털 필터를 이해하고, 이미지 및 소리의 디지털 신호처리와 푸리에 변환에 대해 학습한다."
+1학년,인공지능기초와활용,Foundation and Utilization of Artificial Intelligence,인공지능의 역사와 기초 지식을 비롯하여 다양한 분야의 활용을 배운다.
+1학년,인공지능수학기초,Artificial Intelligence Early Semester,인공지능에서 자주 사용되는 선형대수의 기본 개념을 소개한다.
+2학년,기계학습,Machine Learning,"기계학습의 기본 개념과 알고리즘을 배우며, 지도학습, 비지도학습, 앙상블 모델을 포함한 기계학습의 기본 이론을 학습한다."
+2학년,딥러닝,Deep Learning,딥러닝의 배경지식과 Convolutional 및 Recurrent Neural Networks와 관련된 지식과 활용법을 실습한다.
+2학년,AI알고리즘,AI Algorithm,"최적화 관련 알고리즘을 학습하며, 인공지능에서 최적의 솔루션을 찾기 위한 다양한 기법을 배운다."
+2학년,데이터분석기초,Data Analysis Basics,"데이터 분석의 기초를 다루며, 주요 오픈소스 라이브러리(numpy, matplotlib, pandas)를 학습하여 활용능력을 키운다."
+2학년,리눅스운영체제,Linux Operating System,"Linux 운영체제의 기본 개념과 주요 기능을 이해하며 프로세스 관리, 저장장치 관리 등의 주제를 학습한다."
+2학년,문제해결과알고리즘,Problem Solving Algorithm,스토리 문제 해결을 위한 알고리즘을 학습하여 절차적 문제 해결 능력을 키운다.
+2학년,서비스러닝,Service Learning,"학습한 이론을 실제 기업 프로젝트에 적용하여 실무 경험을 획득하고, 문제 해결능력을 배양한다."
+2학년,인공지능수학심화,Advanced Artificial Intelligence Mathematics,확률 및 통계와 같은 인공지능 기술 개발을 위한 수학 이론과 기법을 학습한다.
+2학년,프로그래밍기초와실습,Basic Programming and Practice,자바를 사용하여 객체지향 프로그래밍의 기초와 소프트웨어 개발 능력을 배양한다.
+3학년,AI리빙랩Ⅰ,AI Living LabⅠ,전공지식을 지역사회의 문제 해결에 적용하며 실제 문제 해결능력을 키운다.
+3학년,강화학습,Reinforced Learning,기계 학습 및 인공지능의 핵심 연구 분야인 강화학습을 학습하고 응용한다.
+3학년,데이터베이스,Database,"데이터베이스의 개념과 질의어, 정규화 및 객체지향 데이터베이스에 대해 학습한다."
+3학년,로봇프로그래밍기초,Basic Robot Programming,"로봇 제어에 필요한 AI 개념, 센서 데이터 수집 및 처리 등을 학습한다."
+3학년,비지도학습,Unsupervised Learning,"비지도학습을 통해 차원축소, 군집화 등 목표값 없는 데이터의 숨겨진 구조를 학습한다."
+3학년,웹프로그래밍,Web Programming,"HTML5, CSS3, JavaScript, 파이썬 등을 활용하여 웹프로그래밍 환경을 구축한다."
+3학년,유전 알고리즘,Genetic Algorithm,유전 알고리즘 및 타부서치를 통해 최적화 문제를 해결하는 방법을 학습한다.
+3학년,자연어처리,Natural Language Processing,Python과 NLTK를 기반으로 NLP의 기본 개념과 기법을 학습한다.
+3학년,첨단신경망,Advanced Neural Network,딥 러닝의 최근 발전을 반영한 고급 신경망 모델 및 응용 프로그램을 다룬다.
+3학년,클라우드컴퓨팅,Cloud Computing,가상화를 포함한 클라우드 컴퓨팅 개념을 학습하고 다양한 클라우드 형태의 운영 시스템을 학습한다.
+4학년,AI리빙랩Ⅱ,AI Living LabⅡ,지역사회의 문제 해결에 전공지식을 적용하여 실무적 문제 해결능력을 배양한다.
+4학년,음성인식,Voice Recognition,"AI 음성인식의 개념과 통계, 디지털 신호처리에 대해 학습한다."
+4학년,인공지능세미나,Artificial Intelligence Seminar,인공지능의 특수 주제와 관련 분야의 최신 개발 및 동향을 학습한다.
+4학년,인공지능시스템,Artificial Intelligence System,인공지능 시스템을 실제로 구현하여 학문적 이해를 심화한다.
+4학년,지능HCI,Intelligence HCI,인간과 컴퓨터 간의 상호작용을 개선하는 HCI 기술을 학습한다.
+4학년,지식표현과추론,Knowledge Expression and Reasoning,컴퓨터와 인간이 이해할 수 있는 논리적 표현법과 추론 기법을 학습한다.

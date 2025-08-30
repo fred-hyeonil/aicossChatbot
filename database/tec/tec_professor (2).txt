@@ -1,0 +1,10 @@
+﻿박성열 - 위성원격탐사, GIS, 머신러닝 | 02-970-9778 | sypark@seoultech.ac.kr
+정열 - 시각지능, 인지지능, 분산학습 | 02-970-9776 | jongyoul@seoultech.ac.kr
+김성은 - 뇌공학, 뇌인공지능, 딥러닝 | 02-970-6450 | sekim@seoultech.ac.kr
+서광우 - 인간-컴퓨터 상호작용, 딥러닝, 가상현실 | 02-970-9777 | kwseo@seoultech.ac.kr
+김훈 - 컴퓨터 비전, 머신러닝 | 02-970-9771 | hukim@seoultech.ac.kr
+오병선 - 패턴분석 및 학습, 기계학습, 딥러닝 | 02-970-9748 | bsoh@seoultech.ac.kr
+김병수 - 디지털 트윈, 시뮬레이션, AI융합 | 02-970-9779 | bskim@seoultech.ac.kr
+임규태 - 자연어처리, 멀티모달시스템 | 02-970-9750 | ktlim@seoultech.ac.kr
+김연응 - 수리기계학습, 응용수학 | 02-970-9715 | yeoneung@seoultech.ac.kr
+최기환 - 최적화이론, 딥러닝, 의료영상처리 | 02-970-9753 | kihwanc@seoultech.ac.kr

@@ -1,0 +1,62 @@
+/WEB-INF/jsp/k2web/com/cop/site/layout.jsp
+aisw_JW_MS_K2WT001_S
+fnctId=prof,fnctNo=14
+											(Lim, Hyeong-Seok)
+062-530-3426
+hslim@jnu.ac.kr
+											(Choi, Deok-Jai)
+dchoi@jnu.ac.kr
+											(Kim, Soo-Hyung)
+062-530-3430
+shkim@jnu.ac.kr
+											(Park, Hyuk-Ro)
+062-530-3431
+hyukro@jnu.ac.kr
+											(Yang, Hyung-Jeong)
+062-530-3436
+hjyang@jnu.ac.kr
+											(Kim, Kyungbaek)
+분산네트워크시스템연구실
+지능형 분산시스템, 빅데이터 플랫폼, SDN/NFV
+062-530-3438
+kyungbaekkim@jnu.ac.kr
+											(Choi, Kwanghoon)
+소프트웨어언어 및 시스템
+프로그래밍언어,컴파일러,소프트웨어공학
+062-530-3421
+kwanghoon.choi@jnu.ac.kr
+											(Jeong, Hieyong)
+Biomechanics / Robotics
+062-530-3427
+h.jeong@jnu.ac.kr
+											(Yoo, Seok-Bong)
+062-530-3437
+sbyoo@jnu.ac.kr
+											(Cho, Yeong-Jun)
+062-530-3432
+yj.cho@jnu.ac.kr
+											(Kim, Seungwon)
+증강/가상현실 연구실
+062-530-4231
+Seungwon.Kim@jnu.ac.kr
+											(Park, Taejune)
+보안/신뢰 컴퓨팅 연구실
+정보보안, 클라우드, 네트워크
+062-530-4232
+taejune.park@jnu.ac.kr
+											(Kim, Man-je)
+게임&기계지능 연구실
+062-530-4233
+jaykim0104@jnu.ac.kr
+											(Kim, Misoo)
+소프트웨어 진화 및 유지보수 연구실
+소프트웨어 검증, 소프트웨어 마이닝, 소프트웨어 공학
+062-530-4234
+misoo.kim@jnu.ac.kr
+											(Hwang, Bu-Hyun)
+062-530-3422
+bhhwang@jnu.ac.kr
+											(Lee, Guee-Sang)
+멀티미디어정보통신연구실
+062-530-3425
+gslee@jnu.ac.kr
